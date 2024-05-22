@@ -1,20 +1,68 @@
 body {
-  background-color: rgb(0, 17, 255);
+  background-color: rgb(0, 0, 0);
 }
 
 h1 {
   color: rgb(255, 255, 255);
 }
-h2 {
+
+.page1 {
+  text-align: left;
+  color: rgb(255, 255, 255);
+  margin: 10px;
+
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+
+}
+
+.cv {
+  float: left;
+  margin: auto;
+
+}
+
+.github {
+
+  float: left;
+
+}
+
+.linkedin {
+  margin: 40px;
+
+}
+
+.about {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 100px;
+}
+
+.h2 {
   color: rgb(255, 255, 255);
 }
 
-a.visited {
+
+.projects {
   color: rgb(255, 255, 255);
-  text-decoration: none;
 }
 
-p {
+.publications {
   color: rgb(255, 255, 255);
-  align-self: center;
+
+}
+
+.a:link {
+  color: blue;
+}
+
+.a:visited {
+  color: blue;
+}
+
+.a:link {
+  color: blue;
 }
